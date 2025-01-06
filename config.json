@@ -1,0 +1,8 @@
+{
+  "dpi": 300,
+  "output_dir": "output",
+  "threshold_method": "gaussian",
+  "blur_size": 5,
+  "contrast_alpha": 1.5,
+  "brightness_beta": 20
+}
