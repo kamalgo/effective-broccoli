@@ -41,7 +41,7 @@ def extract_general_text(image):
     """
     Extract general text from the image (unstructured).
     """
-    text = pytesseract.image_to_string(image, lang='eng')
+    text = pytesseract.image_to_string(image, lang='mar')
     return {"general_text": text}
 
 
